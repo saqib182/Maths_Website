@@ -1,2 +1,2 @@
 # Maths_Website
-A simple user-interactive website demonstrating skills in HTML/CSS.
+A simple user-interactive web[age demonstrating skills in HTML/CSS.
